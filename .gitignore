@@ -1,0 +1,20 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!target/fallthrough
+
+### System Files ###
+.DS_Store
+Thumbs.db
+
+### IDE Files ###
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+bin/
+
+### Logs ###
+*.log
